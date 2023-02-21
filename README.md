@@ -8,7 +8,6 @@ This web application allows the user to search for books using a fully functioni
 * [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Screenshots](#screenshots)
-* [Demo](#demo)
 * [Links](#links)
 * [Contributors](#contributors)
 
@@ -30,25 +29,20 @@ This web application allows the user to search for books using a fully functioni
 
 ## Usage 
 
-- node index.js
+- npm run develop
 
 
 ## Screenshots
 
-![PWA-screenshot1](./client/src/images-demo/text_editor_screenshot1.png)
-![PWA-screenshot2](./client/src/images-demo/text_editor_screenshot2.png)
-![PWA-screenshot3](./client/src/images-demo/text_editor_screenshot3.png)
-
-
-## Demo 
-
-![PWA-demo-vid](./client/src/images-demo/text_editor_demo.webm)
+![BSE-screenshot1](./client/public/screenshot1.png)
+![BSE-screenshot2](./client/public/screenshot2.png)
+![BSE-screenshot3](./client/public/screenshot3.png)
 
 
 ## Links
 
 GitHub repository URL: 
-https://github.com/JacquelineHockin/PWA-Text_Editor
+https://github.com/JacquelineHockin/Book_Search_Engine
 
 
 ## Contributors 
